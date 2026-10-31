@@ -1,0 +1,41 @@
+
+# ==============================
+# Keil build output
+# ==============================
+**/Objects/
+**/Listings/
+**/Debug/
+**/Release/
+
+# ==============================
+# Compiler intermediate files
+# ==============================
+*.axf
+*.elf
+*.hex
+*.bin
+*.o
+*.d
+*.crf
+*.dep
+*.lnp
+
+# ==============================
+# Keil user configuration
+# ==============================
+*.uvguix
+*.uvgui
+
+# ==============================
+# Font conversion tools
+# ==============================
+**/font/bdf2c.exe
+**/font/otf2bdf.exe
+**/font/ttf2c.exe
+**/font/ttf2c.core.dll
+
+# ==============================
+# Windows
+# ==============================
+Thumbs.db
+Desktop.ini
